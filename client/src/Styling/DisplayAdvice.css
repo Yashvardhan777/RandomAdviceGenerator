@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+
+p{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#button{
+    margin: 0 auto;
+    display: block;
+
+
+}

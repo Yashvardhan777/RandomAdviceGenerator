@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
+
+.jumbotron{
+    background-image: url('../Images/Jumbotron\ Background.jpg');
+    background-size: cover;
+
+}
+
+
+h1{
+    font-family: 'Lexend', sans-serif;
+    color: aliceblue;
+}
